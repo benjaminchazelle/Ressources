@@ -43,6 +43,7 @@ Library of challenges :
 ### Write-ups & Blogs
 Write-ups : 
 * [FR] http://bases-hacking.org/
++ [EN] http://hugodelval.com/bug_bounties
 
 General articles : 
 * [FR] http://www.n0secure.org/
