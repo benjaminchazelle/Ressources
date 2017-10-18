@@ -79,6 +79,9 @@ Nessus :
 
 #### Cryptography tool : 
 
+* [EN] GPUHASH.me (WPA, WPA2, MD5, SHA256, NTLLM available) : https://gpuhash.me/
+* [EN] OnlineHashCrack (WPA, WPA2 available) : https://www.onlinehashcrack.com/wifi-wpa-rsna-psk-crack.php
+
 #### Advanced
 ### Books
 Book list : 
